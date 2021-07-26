@@ -11,7 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# For testing purposes of example, we will push the .jar file to the repo
+# *.jar
 *.war
 *.nar
 *.ear
